@@ -1,7 +1,7 @@
 # HTG_Analysis
 ## HTG analysis of Sarcoidosis, Cocci and TB
 
-### This directory contains the scripts necessary to reproduce the results from the manuscript "Differential transcriptomics in sarcoidosis lung and lymph node granulomas with comparison to pathogen-specific granulomas" The data required to reproduce the results are from Human subjects and consequently you need to contact Dr. Casanova at ncasanova@arizona.edu. 
+### This directory contains the scripts necessary to reproduce the results from the manuscript "Differential transcriptomics in sarcoidosis lung and lymph node granulomas with comparison to pathogen-specific granulomas" The data required to reproduce the results are from Human subjects and consequently you need to contact Dr. Casanova at ncasanova@arizona.edu and request the data. 
 
 ### To be able to run this program you need to clone this repository into a linux machine. 
 
