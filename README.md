@@ -5,8 +5,7 @@
 
 ### To be able to run this workflow, you need to clone this repository into a Linux machine (Any flavor should suffice). 
 
-## You need to install the following software.
-
+## Before running the workflow, you need to install the following software.
 ### Salmon version 1.3.0 (from https://github.com/COMBINE-lab/salmon/releases)
 ### ruby 2.6.6p146
 ### R version 3.6.3
