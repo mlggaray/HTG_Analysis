@@ -87,7 +87,7 @@
 
 
 ### After installing and testing that all the packages are working properly. Proceed with the following steps:
-1. You need to request the HTG files to ncasanova@arizona.edu.
+1. You need to request the HTG files to Dr. Casanova ncasanova@arizona.edu.
 2. Create a directory  for example "htgAnalysis" and move the fastqFiles.tar.bz2 into the directory. 
 3. You could verify that the fastqFiles.tar.bz2 is intact by running the command "md5sum fastqFiles.tar.bz2" and verify that the value is "1cfc2d7943ea1327d69bba84d8194c55". 
 4.  Inside the "htgAnalysis" directory decompress the fastqFiles.tar.bz2 using the command "tar -xjvf fastqFiles.tar.bz2". This command will generate the fastq files and mapping files necessary to run the code.
